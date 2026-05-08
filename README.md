@@ -1,13 +1,13 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aggieland Web Co. | Web Design in Bryan-College Station</title>
-    <meta name="description" content="Modern websites for Bryan-College Station businesses. Web design, hosting, local SEO, and ongoing support." />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
-</html>
+# Aggieland Web Co.
+
+## How to deploy on Vercel
+
+1. Upload every file in this folder to your GitHub repo.
+2. Go to Vercel.
+3. Import the GitHub repo.
+4. Framework preset: Vite.
+5. Build command: npm run build.
+6. Output directory: dist.
+7. Click Deploy.
+
+Do not upload the ZIP itself to GitHub. Unzip it first, then upload the files.
